@@ -1,0 +1,94 @@
+body{
+    box-sizing: border-box;
+    background:  url(img/013_content_big.jpg)  no-repeat;
+    background-size: cover; 
+    background-attachment:fixed;
+    color: #fff;
+    
+
+}
+
+h1 , h2 , h3 , h4{
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0 20px;
+    color: gold;
+    
+}
+h2{
+    font-size: 24px;
+    border-bottom: 2px #fff solid;
+}
+
+h3{
+    font-size: 20px;
+    border-bottom: 2px #fff solid;
+}
+
+h4{
+    font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+    color: gold;
+}
+
+.main{
+    width: 1000px;
+    margin: 0 auto;
+    min-height: 1000px;
+    background-color:rgba(0, 0, 0, 0.829);
+}
+
+p{
+    font-size: 18px;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+.robot{
+    list-style: none;
+    margin-left: 30px ;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+
+.robot:first-child{
+    margin-left: 0; 
+}
+
+.robot-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.line{
+    display: flex;
+    flex-direction: row;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.about-text{
+    font-size: 18px;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+.about-ing{
+    display: flex;
+    padding: 20px;
+   
+}
+
+footer{
+    text-align: center;
+}
