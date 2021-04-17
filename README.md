@@ -3,3 +3,4 @@
 вимоги:
 Всі теги заголовків повинні бути логічно розставлені.
 У тексті повинні бути посилання і якірні посилання.
+<h1>GitHub Pages</h1> - <a href="https://alexkiberkotik.github.io/Web-technologies-Laboratory-work-1/" rel="nofollow"> https://alexkiberkotik.github.io/Web-technologies-Laboratory-work-1/</a>
